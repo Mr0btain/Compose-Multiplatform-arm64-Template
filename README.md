@@ -13,17 +13,17 @@ error that you get with the new templates.
   in the name you can name it something like desktopApp
   Under run you want to put composeApp:run
 
-  ![alt text](https://github.com/[Mr0btain]/[Compose-Multiplatform-arm64-Template]/blob/[main]/readmeimages/runsettings.png?raw=true)
+  ![alt text](https://github.com/Mr0btain/Compose-Multiplatform-arm64-Template/blob/main/readmeimages/runsettings.png?raw=true)
 
   After saving this config and hitting run you should end up with something like this
 
-  ![alt text](https://github.com/[Mr0btain]/[Compose-Multiplatform-arm64-Template]/blob/[main]/readmeimages/example.png?raw=true)
+  ![alt text](https://github.com/Mr0btain/Compose-Multiplatform-arm64-Template/blob/main/readmeimages/example.png?raw=true)
 
 ## IOS
   Building for IOS has been disabled so it will build on linux and windows. to enable it uncomment the section for IOS 
   in the gradle build file in composeApp directory.
   
-   ![alt text](https://github.com/[Mr0btain]/[Compose-Multiplatform-arm64-Template]/blob/[main]/readmeimages/ios.png?raw=true)
+   ![alt text](https://github.com/Mr0btain/Compose-Multiplatform-arm64-Template/blob/main/readmeimages/ios.png?raw=true)
 
 
 ## From original ReadMe
