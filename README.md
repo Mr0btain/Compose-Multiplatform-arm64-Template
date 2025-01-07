@@ -4,6 +4,8 @@ A Template that should build and run on linux and windows arm64 in intellij idea
 error that you get with the new templates.
 
 ## Running on Desktop
+  ** DOES NOT WORK ON WINDOWS ATM. only linux **
+  
   To run on desktop youll need to add a config. at the top beside run hit add config
 
   ![alt text](https://github.com/Mr0btain/Compose-Multiplatform-arm64-Template/blob/main/readmeimages/editconfig.png?raw=true)
