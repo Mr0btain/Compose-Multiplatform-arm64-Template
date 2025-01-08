@@ -4,7 +4,9 @@ A Template that should build and run on linux and windows arm64 in intellij idea
 error that you get with the new templates.
 
 ## Running on Desktop
-  ** DOES NOT WORK ON WINDOWS ATM. only linux **
+  ** DOES NOT WORK ON WINDOWS ARM64 IDEA ATM. only linux **
+   There is no build for org.jetbrains.compose.desktop:desktop-jvm-windows-arm64 yet so the true arm64 version of Intellij IDEA will not work.
+   for now the only way to get it working is to use the x64 version of IDEA which doesnt seem to run too terribly emulated but you will notice it.
   
   To run on desktop youll need to add a config. at the top beside run hit add config
 
