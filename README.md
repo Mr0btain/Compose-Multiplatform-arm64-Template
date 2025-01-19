@@ -7,6 +7,12 @@ error that you get with the new templates.
   ** DOES NOT WORK ON WINDOWS ARM64 IDEA ATM. only linux **
    There is no build for org.jetbrains.compose.desktop:desktop-jvm-windows-arm64 yet so the true arm64 version of Intellij IDEA will not work.
    for now the only way to get it working is to use the x64 version of IDEA which doesnt seem to run too terribly emulated but you will notice it.
+
+   In Linux arm64 you may need to use this evironment variable to avoid crashes. Mine crashes anytime i try to use animations without this.
+   
+    export MESA_EXTENSION_OVERRIDE="-GL_ARB_invalidate_subdata"
+    
+   For example on Ubuntu to make this permanent you can edit ~/.profile and add it to the bottom.
   
   To run on desktop youll need to add a config. at the top beside run hit add config
 
