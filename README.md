@@ -30,10 +30,7 @@ error that you get with the new templates.
   ![alt text](https://github.com/Mr0btain/Compose-Multiplatform-arm64-Template/blob/main/readmeimages/example.png?raw=true)
 
 ## IOS
-  Building for IOS has been disabled so it will build on linux and windows. to enable it uncomment the section for IOS 
-  in the gradle build file in composeApp directory.
-  
-   ![alt text](https://github.com/Mr0btain/Compose-Multiplatform-arm64-Template/blob/main/readmeimages/ios.png?raw=true)
+  I havent tested on IOS yet but it shouldnt have any problems.
 
 
 ## From original ReadMe
