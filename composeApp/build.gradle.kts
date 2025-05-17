@@ -19,7 +19,8 @@ kotlin {
     }
     
     jvm("desktop")
-    
+
+/*
     listOf(
         iosX64(),
         iosArm64(),
@@ -30,6 +31,7 @@ kotlin {
             isStatic = true
         }
     }
+*/
     
     sourceSets {
         val desktopMain by getting
