@@ -1,3 +1,19 @@
+# Compose Multiplatform Templete for Linux ARM64
+
+  This is a basic templete to start an app that will build on linux ARM64. Really the only 
+  thing you have to change from the original is commenting out the IOS stuff and the project 
+  will build. This templete has build configs, Koin, and view model setup. Ill add some more
+  basic things as i go that i use in almost every app.
+
+  ## Things to add:
+    Serialization
+    File Dialog for each platform
+    Common App folder directories for each Desktop OS
+    Save/Open file functions
+  
+
+## From original project readme:
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop, Server.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
