@@ -14,9 +14,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
-
-import kotlinproject.composeapp.generated.resources.Res
-import kotlinproject.composeapp.generated.resources.compose_multiplatform
+import multiplatformtemplete.composeapp.generated.resources.Res
+import multiplatformtemplete.composeapp.generated.resources.compose_multiplatform
 import org.koin.compose.KoinContext
 import org.koin.compose.viewmodel.koinViewModel
 
